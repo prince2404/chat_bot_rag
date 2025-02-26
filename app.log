@@ -1,0 +1,122 @@
+2025-02-20 22:20:30,575 - INFO - Session ID: b1678212-74ff-420c-8727-79a0675ab0fd, User Query: hi, Model: gpt-4o
+2025-02-20 22:20:33,143 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-20 22:20:35,035 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-20 22:20:35,103 - INFO - Session ID: b1678212-74ff-420c-8727-79a0675ab0fd, AI Response: Hello! How can I assist you today?
+2025-02-20 22:45:38,342 - INFO - Session ID: 861098ac-d28c-4293-b06a-2d37d0033baf, User Query: hi, Model: gpt-4o
+2025-02-20 22:45:41,312 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-20 22:45:42,947 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-20 22:45:43,025 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-20 22:45:46,326 - INFO - Session ID: 861098ac-d28c-4293-b06a-2d37d0033baf, AI Response: Hello! How can I assist you today?
+2025-02-20 22:46:03,494 - INFO - Session ID: 861098ac-d28c-4293-b06a-2d37d0033baf, User Query: what is veganism, Model: gpt-4o
+2025-02-20 22:46:05,476 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-20 22:46:06,394 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-20 22:46:09,057 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-20 22:46:09,090 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-20 22:46:11,664 - INFO - Session ID: 861098ac-d28c-4293-b06a-2d37d0033baf, AI Response: El veganismo es un estilo de vida y una dieta que excluye todos los productos de origen animal. Esto incluye carne, lácteos, huevos, cuero, lana, miel y más. Los veganos optan por abstenerse de estos productos por razones éticas, de salud o ambientales. Si estás interesado en más detalles sobre cómo empezar o sobre alternativas veganas, ¡estaré encantado de ayudarte! ¿Hay algo más que te gustaría saber?
+2025-02-20 22:53:06,919 - INFO - Session ID: 861098ac-d28c-4293-b06a-2d37d0033baf, User Query: how are you, Model: gpt-4o
+2025-02-20 22:53:08,899 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-20 22:53:09,923 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-20 22:53:10,907 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-20 22:53:10,930 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-20 22:53:14,164 - INFO - Session ID: 861098ac-d28c-4293-b06a-2d37d0033baf, AI Response: ¡Estoy aquí para ayudarte! ¿En qué te puedo asistir hoy?
+2025-02-20 23:16:52,869 - INFO - Session ID: 07807224-36ae-461d-bdd6-481fb14e706c, User Query: Hi, Model: gpt-4o
+2025-02-20 23:16:56,150 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-20 23:16:58,095 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-20 23:16:58,197 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-20 23:17:02,904 - INFO - Session ID: 07807224-36ae-461d-bdd6-481fb14e706c, AI Response: Hello! How can I assist you today?
+2025-02-20 23:22:26,586 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-20 23:22:48,714 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-20 23:23:33,152 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-20 23:23:42,985 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-20 23:23:55,887 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-20 23:24:04,284 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-20 23:24:09,299 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-20 23:24:14,420 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-20 23:24:21,692 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-20 23:24:35,754 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-20 23:24:50,609 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-20 23:25:05,392 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-20 23:33:09,731 - INFO - Session ID: 61689671-392b-4791-8059-6e3162f2f927, User Query: what is veganism, Model: gpt-4o
+2025-02-20 23:33:13,972 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-20 23:33:19,088 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-20 23:33:19,187 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-20 23:33:24,204 - INFO - Session ID: 61689671-392b-4791-8059-6e3162f2f927, AI Response: Veganism is a lifestyle and dietary choice where an individual abstains from using any animal products. This includes avoiding meat, dairy, eggs, leather, wool, honey, and more. People choose veganism for various reasons, such as ethical concerns for animal welfare, environmental considerations, or health benefits. If you're interested in learning more about why people choose to go vegan or how to start, there are numerous resources and videos available that can provide additional insights and guidance.
+2025-02-20 23:33:49,390 - INFO - Session ID: 61689671-392b-4791-8059-6e3162f2f927, User Query: i want to give an animal for adoption, Model: gpt-4o
+2025-02-20 23:33:52,776 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-20 23:33:53,399 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-20 23:33:56,358 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-20 23:33:56,408 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-20 23:34:01,581 - INFO - Session ID: 61689671-392b-4791-8059-6e3162f2f927, AI Response: Sure, I can help with that. Please provide the following information about the animal you want to give up for adoption:
+
+1. Animal's name
+2. Type (e.g., dog, cat)
+3. Gender
+4. Age
+5. Location
+
+Once I have this information, I will confirm that I've received your details and tell you what the next steps are.
+2025-02-20 23:35:24,804 - INFO - Session ID: 61689671-392b-4791-8059-6e3162f2f927, User Query: name is chok, she is a female dog, she is 4 months old in kangra, Model: gpt-4o
+2025-02-20 23:35:28,623 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-20 23:35:29,645 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-20 23:35:32,843 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-20 23:35:32,883 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-20 23:35:38,043 - INFO - Session ID: 61689671-392b-4791-8059-6e3162f2f927, AI Response: Thank you for providing the details. Here is the information I have for the dog you want to give up for adoption:
+
+- Name: Chok
+- Type: Dog
+- Gender: Female
+- Age: 4 months
+- Location: Kangra
+
+I have received this information and will pass it on for processing. You will be contacted by the adoption agency for further steps. Thank you for reaching out and ensuring Chok finds a good home.
+2025-02-20 23:56:51,996 - INFO - Session ID: 61689671-392b-4791-8059-6e3162f2f927, User Query: mere kutte ko khujli ho rhi hai, Model: gpt-4o
+2025-02-20 23:56:56,903 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-20 23:56:58,032 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-20 23:57:08,177 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-20 23:57:08,237 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-20 23:57:13,605 - INFO - Session ID: 61689671-392b-4791-8059-6e3162f2f927, AI Response: Kripya mujhe kutte ke aur symptoms ke baare mein jankari dein. Tab main aapko behtar salah de sakta hoon. Kuch aam symptoms jo khujli se jude ho sakte hain, wo hain: 
+
+- Adhik kharochna ya chabana
+- Baalon ka jhadna
+- Sookha ya laal chamdi
+- Khal ki gandh
+
+Aap se symptoms ki puri suchi milne ke baad, main kuch sambhavit bimariyon ki talash aur ilaj ke liye salah de sakta hoon.
+2025-02-20 23:58:13,602 - INFO - Session ID: 61689671-392b-4791-8059-6e3162f2f927, User Query: Baalon ka jhadna, Khal ki gandh, Model: gpt-4o
+2025-02-20 23:58:18,020 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-20 23:58:19,145 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-20 23:58:31,125 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-20 23:58:31,186 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-20 23:58:36,164 - INFO - Session ID: 61689671-392b-4791-8059-6e3162f2f927, AI Response: Baalon ka jhadna aur khal ki gandh, dono hi samasyaen bhaari ho sakti hain aur kuch samay tak inka dhyan rakha jana chahiye. Yeh kuch karan ho sakte hain:
+
+### Sambhavit Bimariyan:
+1. **Bacterial Skin Infection (Pyoderma):** 
+   - Symptoms mein laalpan, sunapan, ya phode ho sakte hain.
+
+2. **Fungal Skin Infection:**
+   - **Ringworm:** Gol giriyaan aur baalon ki kami.
+   - **Malassezia Dermatitis:** Gili aur khushbu maarne waali khal, yaad rahein yeh kaanon ke paas ho sakti hai.
+
+3. **Allergies:** Bhojan, mahaul ya chamdi ke mal kanoachne se hone waali allergy.
+
+4. **Parasites:** Khatmal, jhutiyan ya toodiyan jisse khujli aur baalon ka jhadna ho sakta hai.
+
+### Ilaj ke Liye Kadam:
+1. **Khal ki Safai:** Chlorehexidine ke antiseptic solution se khal ko saaf karein.
+   
+2. **Topical Antibiotics/Fungicides:** 
+   - Neosporin ointment ya Mupirocin cream.
+   - Agar fungal hai toh Clotrimazole cream.
+
+3. **Diet aur Poshak Tattvon ka Samavesh:** 
+   - **Omega-3 aur Omega-6 Fatty Acids:** Jaise Cod Liver Oil.
+   - Multivitamin jaise Zincovit tablets ya Vimeral syrup.
+
+4. **Khujli Santulan:** 
+   - Hypoallergenic shampoos se snaan (jais Oatmeal ya Medicated Shampoo).
+
+### Aavashyak Savdhaaniyan:
+- Adhik kharochne se rokne ke liye collar ka upyog karen.
+- Infections dubara na ho, iske liye kutte ko maamuli swachh rakhein aur vishesh kapiyon ka upyog karein.
+
+Agar lakshan badd te hain ya kuta bechain ho to turant veterinarian se sambandh karein.
